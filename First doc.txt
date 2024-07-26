@@ -2,5 +2,5 @@ This is my first document created for testing
 
 How to write a code
 
-This is a comment in a new branch.
-Main master file is not affected by this
+B Branch
+for testing of conflict B
