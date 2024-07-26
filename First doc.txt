@@ -2,5 +2,6 @@ This is my first document created for testing
 
 How to write a code
 
+b-test
 B Branch
 for testing of conflict B
